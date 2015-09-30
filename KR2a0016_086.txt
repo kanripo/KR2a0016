@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 86
+#+DATE: 2015-08-24 22:20:16.878431
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十六
 <pb:KR2a0016_WYG_086-1a>¶
 欽定四庫全書¶
 　宋書卷八十六¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　宋書卷八十六¶
+#+PROPERTY: JUAN 卷八十六考證
 <pb:KR2a0016_WYG_086-12a>¶
 　宋書卷八十六考證¶
 殷孝祖傳軍中人相謂曰殷統軍可謂死矣○南史死¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　宋書卷八十六考證¶
-

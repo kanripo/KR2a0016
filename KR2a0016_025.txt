@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:20:15.518271
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR2a0016_WYG_025-1a>¶
 欽定四庫全書¶
 　宋書卷二十五¶
@@ -452,6 +454,7 @@
 月髙祖受宋王二年六月晉帝遜位高祖入宮¶
 　¶
 　宋書卷二十五¶
+#+PROPERTY: JUAN 卷二十五考證
 <pb:KR2a0016_WYG_025-26a>¶
 　宋書卷二十五考證¶
 天文志三太元二十年六月熒惑入天囤○(臣永祚/)按¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　宋書卷二十五考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 46
+#+DATE: 2015-08-24 22:20:16.015369
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十六
 <pb:KR2a0016_WYG_046-1a>¶
 欽定四庫全書¶
 　宋書卷四十六¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　宋書卷四十六¶
+#+PROPERTY: JUAN 卷四十六考證
 <pb:KR2a0016_WYG_046-16a>¶
 　宋書卷四十六考證¶
 王懿傳自言漢司徒允弟幽州刺史&KR0375;七世孫也○允¶
@@ -308,4 +311,3 @@
 　¶
 　¶
 　宋書卷四十六考證¶
-

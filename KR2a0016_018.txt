@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:20:15.349008
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR2a0016_WYG_018-1a>¶
 欽定四庫全書¶
 　宋書卷十八¶
@@ -794,6 +796,7 @@
 武太妃故事唯省五牛旗及赤旂¶
 　¶
 　宋書卷十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR2a0016_WYG_018-45a>¶
 　宋書卷十八考證¶
 禮志五皇子為王錫以此乘故曰王青蓋車○故曰下¶
@@ -812,4 +815,3 @@
 　¶
 　¶
 　宋書卷十八考證¶
-

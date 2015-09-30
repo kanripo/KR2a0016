@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 71
+#+DATE: 2015-08-24 22:20:16.516087
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十一
 <pb:KR2a0016_WYG_071-1a>¶
 欽定四庫全書¶
 　宋書卷七十一¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　宋書卷七十一¶
+#+PROPERTY: JUAN 卷七十一考證
 <pb:KR2a0016_WYG_071-14a>¶
 　宋書卷七十一考證¶
 徐湛之傳父逹之尚高祖長女㑹稽公主○逹之胡藩¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　宋書卷七十一考證¶
-

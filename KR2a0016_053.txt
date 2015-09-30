@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 53
+#+DATE: 2015-08-24 22:20:16.172473
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十三 
 <pb:KR2a0016_WYG_053-1a>¶
 欽定四庫全書¶
 　宋書卷五十三¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　宋書卷五十三¶
+#+PROPERTY: JUAN 卷五十三考證
 <pb:KR2a0016_WYG_053-25a>¶
 　宋書卷五十三考證¶
 張永傳徙為江夏王義恭太尉中兵參軍○太監本訛¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　宋書卷五十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 88
+#+DATE: 2015-08-24 22:20:16.909004
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十八
 <pb:KR2a0016_WYG_088-1a>¶
 欽定四庫全書¶
 　宋書卷八十八¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　宋書卷八十八¶
+#+PROPERTY: JUAN 卷八十八考證
 <pb:KR2a0016_WYG_088-16a>¶
 　宋書卷八十八考證¶
 薛安都傳使助秦州刺史北賀泊擊反胡白龍子滅之¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　宋書卷八十八考證¶
-

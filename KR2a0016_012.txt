@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:20:15.189853
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR2a0016_WYG_012-1a>¶
 欽定四庫全書¶
 　宋書卷十二¶
@@ -1082,6 +1084,7 @@
 載暉舊域光被誠應綜覈晷度以播維新承天歴術合¶
 可施用宋二十二年普用元嘉歴詔可¶
 　宋書卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR2a0016_WYG_012-61a>¶
 　宋書卷十二考證¶
 歴志上甲寅紀第六交㑹差率十四萬八百五十九○¶
@@ -1118,4 +1121,3 @@
 　¶
 　¶
 　宋書卷十二考證¶
-

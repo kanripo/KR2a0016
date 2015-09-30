@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:20:15.113676
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0016_WYG_007-1a>¶
 欽定四庫全書¶
 　宋書卷七¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　宋書卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0016_WYG_007-11a>¶
 　宋書卷七考證¶
 前廢帝紀二月丁丑减州郡縣田租之半○租監本訛¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　宋書卷七考證¶
-

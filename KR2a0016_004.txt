@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:20:15.067258
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0016_WYG_004-1a>¶
 欽定四庫全書¶
 　宋書卷四¶
@@ -74,6 +76,7 @@
 　¶
 　¶
 　宋書卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0016_WYG_004-5a>¶
 　宋書卷四考證¶
 少帝紀突走出昌門追以門闗踣之○闗一本作開者¶
@@ -92,4 +95,3 @@
 　¶
 　¶
 　宋書卷四考證¶
-

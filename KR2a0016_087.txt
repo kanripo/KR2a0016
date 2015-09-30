@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 87
+#+DATE: 2015-08-24 22:20:16.892768
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十七
 <pb:KR2a0016_WYG_087-1a>¶
 欽定四庫全書¶
 　宋書卷八十七¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　宋書卷八十七¶
+#+PROPERTY: JUAN 卷八十七考證
 <pb:KR2a0016_WYG_087-20a>¶
 　宋書卷八十七考證¶
 蕭惠開傳今以蕭惠開為憲司冀當稱職但一往服領¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　宋書卷八十七考證¶
-

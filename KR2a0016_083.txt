@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 83
+#+DATE: 2015-08-24 22:20:16.813333
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十三
 <pb:KR2a0016_WYG_083-1a>¶
 欽定四庫全書¶
 　宋書卷八十三¶
@@ -416,6 +418,7 @@
 之情用於治日其得不亡亦為幸矣¶
 　¶
 　宋書卷八十三¶
+#+PROPERTY: JUAN 卷八十三考證
 <pb:KR2a0016_WYG_083-24a>¶
 　宋書卷八十三考證¶
 黄回傳每以少制多挺身深入無畏惮○無字下一本¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　宋書卷八十三考證¶
-

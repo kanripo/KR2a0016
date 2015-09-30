@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:20:16.208934
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0016_WYG_055-1a>¶
 欽定四庫全書¶
 　宋書卷五十五¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　宋書卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR2a0016_WYG_055-15a>¶
 　宋書卷五十五考證¶
 臧燾傳雖外戚貴顯而彌自沖約○貴監本作䝿蓋因¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　宋書卷五十五考證¶
-

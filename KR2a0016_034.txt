@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:20:15.731238
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR2a0016_WYG_034-1a>¶
 欽定四庫全書¶
 　宋書卷三十四¶
@@ -902,6 +904,7 @@
 　¶
 　¶
 　宋書卷三十四¶
+#+PROPERTY: JUAN 卷三十四考證
 <pb:KR2a0016_WYG_034-51a>¶
 　宋書卷三十四考證¶
 五行志五氐羌反叛大兵西討○監本脱西討二字今¶
@@ -920,4 +923,3 @@
 　¶
 　¶
 　宋書卷三十四考證¶
-

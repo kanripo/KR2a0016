@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 62
+#+DATE: 2015-08-24 22:20:16.331513
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十二
 <pb:KR2a0016_WYG_062-1a>¶
 欽定四庫全書¶
 　宋書卷六十二¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　宋書卷六十二¶
+#+PROPERTY: JUAN 卷六十二考證
 <pb:KR2a0016_WYG_062-16a>¶
 　宋書卷六十二考證¶
 羊欣傳欣時年十二時王獻之為呉興太守○兩時字¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　宋書卷六十二考證¶
-

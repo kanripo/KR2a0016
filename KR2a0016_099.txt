@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 99
+#+DATE: 2015-08-24 22:20:17.169879
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十九
 <pb:KR2a0016_WYG_099-1a>¶
 欽定四庫全書¶
 　宋書卷九十九¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　宋書卷九十九¶
+#+PROPERTY: JUAN 卷九十九考證
 <pb:KR2a0016_WYG_099-25a>¶
 　宋書卷九十九考證¶
 二凶傳濬字休明將産之夕有鵩鳥鳴于屋上○鵩監¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　宋書卷九十九考證¶
-

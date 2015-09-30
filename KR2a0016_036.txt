@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:20:15.788852
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR2a0016_WYG_036-1a>¶
 欽定四庫全書¶
 　宋書卷三十六¶
@@ -776,6 +778,7 @@
 　¶
 　¶
 　宋書卷三十六¶
+#+PROPERTY: JUAN 卷三十六考證
 <pb:KR2a0016_WYG_036-44a>¶
 　宋書卷三十六考證¶
 州郡志二南康公相晉武帝太康三年以廬陵南部都¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　宋書卷三十六考證¶
-

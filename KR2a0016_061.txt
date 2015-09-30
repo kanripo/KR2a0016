@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 61
+#+DATE: 2015-08-24 22:20:16.308364
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十一
 <pb:KR2a0016_WYG_061-1a>¶
 欽定四庫全書¶
 　宋書卷六十一¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　宋書卷六十一¶
+#+PROPERTY: JUAN 卷六十一考證
 <pb:KR2a0016_WYG_061-31a>¶
 　宋書卷六十一考證¶
 廬陵孝獻王義眞傳侍讀學士蔡茂之○(臣承蒼/)按是¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　宋書卷六十一考證¶
-

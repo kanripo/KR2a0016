@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:20:15.548328
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR2a0016_WYG_026-1a>¶
 欽定四庫全書¶
 　宋書卷二十六¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　宋書卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR2a0016_WYG_026-21a>¶
 　宋書卷二十六考證¶
 天文志四十二月太白犯西建中央星○(臣永祚/)按星¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　宋書卷二十六考證¶
-

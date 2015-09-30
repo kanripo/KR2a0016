@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 77
+#+DATE: 2015-08-24 22:20:16.671623
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七
 <pb:KR2a0016_WYG_077-1a>¶
 欽定四庫全書¶
 　宋書卷七十七¶
@@ -632,6 +634,7 @@
 　¶
 　¶
 　宋書卷七十七¶
+#+PROPERTY: JUAN 卷七十七考證
 <pb:KR2a0016_WYG_077-36a>¶
 　宋書卷七十七考證¶
 栁元景傳即以為廣威将軍○廣威南史作武威¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　宋書卷七十七考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 93
+#+DATE: 2015-08-24 22:20:17.018220
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十三
 <pb:KR2a0016_WYG_093-1a>¶
 欽定四庫全書¶
 　宋書卷九十三¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　宋書卷九十三¶
+#+PROPERTY: JUAN 卷九十三考證
 <pb:KR2a0016_WYG_093-28a>¶
 　宋書卷九十三考證¶
 周續之傳留愛崑卉誠著桃李○崑當作昆謂昆蟲也¶
@@ -524,4 +527,3 @@
 王素傳嘗就沙門支僧納學○南史學字下有算字¶
 　¶
 　宋書卷九十三考證¶
-

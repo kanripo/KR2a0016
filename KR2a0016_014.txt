@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:20:15.246907
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0016_WYG_014-1a>¶
 欽定四庫全書¶
 　宋書卷十四¶
@@ -1064,6 +1066,7 @@
 亦如常儀正直侍中奏觧嚴内外百官拜表問訊如常¶
 儀訖罷¶
 　宋書卷十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR2a0016_WYG_014-60a>¶
 　宋書卷十四考證¶
 禮志一周之五禮其五爲嘉嘉(缺二/字)○(臣承蒼/)按此下¶
@@ -1100,4 +1103,3 @@
 　¶
 　¶
 　宋書卷十四考證¶
-

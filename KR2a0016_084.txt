@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 84
+#+DATE: 2015-08-24 22:20:16.837186
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十四
 <pb:KR2a0016_WYG_084-1a>¶
 欽定四庫全書¶
 　宋書卷八十四¶
@@ -866,6 +868,7 @@
 　¶
 　¶
 　宋書卷八十四¶
+#+PROPERTY: JUAN 卷八十四考證
 <pb:KR2a0016_WYG_084-49a>¶
 　宋書卷八十四考證¶
 鄧琬傳令顧照之撰為瑞命記○下文有府主簿顧昭¶
@@ -884,4 +887,3 @@
 　¶
 　¶
 　宋書卷八十四考證¶
-

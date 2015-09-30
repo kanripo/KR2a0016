@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 96
+#+DATE: 2015-08-24 22:20:17.091058
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十六
 <pb:KR2a0016_WYG_096-1a>¶
 欽定四庫全書¶
 　宋書卷九十六¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　宋書卷九十六¶
+#+PROPERTY: JUAN 卷九十六考證
 <pb:KR2a0016_WYG_096-8a>¶
 　宋書卷九十六考證¶
 鮮卑吐谷渾傳廆當傳子及曾孫元孫○一夲無傳字¶
@@ -146,4 +149,3 @@
 　¶
 　¶
 　宋書卷九十六考證¶
-

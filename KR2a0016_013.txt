@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:20:15.213256
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR2a0016_WYG_013-1a>¶
 欽定四庫全書¶
 　宋書卷十三¶
@@ -1172,6 +1174,7 @@
 　¶
 　¶
 　宋書卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR2a0016_WYG_013-66a>¶
 　宋書卷十三考證¶
 厯志下日法七百五十二○(臣永祚/)按周日日餘與周¶
@@ -1190,4 +1193,3 @@
 　千今改正¶
 　¶
 　宋書卷十三考證¶
-

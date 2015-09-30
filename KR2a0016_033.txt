@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:20:15.708027
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0016_WYG_033-1a>¶
 欽定四庫全書¶
 　宋書卷三十三¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　宋書卷三十三¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0016_WYG_033-32a>¶
 　宋書卷三十三考證¶
 五行志四時將相力攻○攻各本訛政今改正¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　宋書卷三十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:20:15.124738
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0016_WYG_008-1a>¶
 欽定四庫全書¶
 　宋書卷八¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　宋書卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR2a0016_WYG_008-27a>¶
 　宋書卷八考證¶
 明帝紀以尚書左僕射王景文為尚書僕射○南史無¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　宋書卷八考證¶
-

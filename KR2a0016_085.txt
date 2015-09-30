@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 85
+#+DATE: 2015-08-24 22:20:16.861503
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十五
 <pb:KR2a0016_WYG_085-1a>¶
 欽定四庫全書¶
 　宋書卷八十五¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　宋書卷八十五¶
+#+PROPERTY: JUAN 卷八十五考證
 <pb:KR2a0016_WYG_085-26a>¶
 　宋書卷八十五考證¶
 謝莊傳孝伯訪問莊及王徽○本書及南史皆有王微¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　宋書卷八十五考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:20:16.578474
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR2a0016_WYG_074-1a>¶
 欽定四庫全書¶
 　宋書卷七十四¶
@@ -830,6 +832,7 @@
 　¶
 　¶
 　宋書卷七十四¶
+#+PROPERTY: JUAN 卷七十四考證
 <pb:KR2a0016_WYG_074-47a>¶
 　宋書卷七十四考證¶
 臧質傳秃頂拳髪○秃南史作頽六書故頽首秃也¶
@@ -866,4 +869,3 @@
 　¶
 　¶
 　宋書卷七十四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 101
+#+DATE: 2015-08-24 22:20:17.216325
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 宋書跋語
 <pb:KR2a0016_WYG_101-1a>¶
 　　侍讀學士(臣萬承蒼/)謹言齊永明中太子家令兼¶
 　　著作郎沈約受勅撰宋書踰年上之本紀十志三¶
@@ -46,4 +48,3 @@
 　　眀者亦間採焉至若諸本悉誤無可據依姑闕所¶
 　　疑不敢擅改(臣承蒼/)等見聞寡陋辭意淺膚吮墨¶
 　　濡毫戰汗交集謹言¶
-

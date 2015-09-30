@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 100
+#+DATE: 2015-08-24 22:20:17.194647
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百
 <pb:KR2a0016_WYG_100-1a>¶
 欽定四庫全書¶
 　宋書卷一百¶
@@ -632,6 +634,7 @@
 誠恐頓首頓首死罪死罪¶
 　¶
 　宋書卷一百¶
+#+PROPERTY: JUAN 卷一百考證
 <pb:KR2a0016_WYG_100-36a>¶
 　宋書卷一百考證¶
 自序髙祖深相訓納○訓疑當作詶¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　宋書卷一百考證¶
-

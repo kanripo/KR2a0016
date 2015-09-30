@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 70
+#+DATE: 2015-08-24 22:20:16.492838
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十
 <pb:KR2a0016_WYG_070-1a>¶
 欽定四庫全書¶
 　宋書卷七十¶
@@ -146,6 +148,7 @@
 敗尺壁若乃義重乎生空炳前誥投軀殉主世罕其人¶
 若無陽源之節丹青何貴焉爾¶
 　宋書卷七十¶
+#+PROPERTY: JUAN 卷七十考證
 <pb:KR2a0016_WYG_070-9a>¶
 　宋書卷七十考證¶
 袁淑傳檜稽而起晨壓未陣○袁淑本集檜作會(臣承/)¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　宋書卷七十考證¶
-

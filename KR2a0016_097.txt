@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 97
+#+DATE: 2015-08-24 22:20:17.113258
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十七
 <pb:KR2a0016_WYG_097-1a>¶
 欽定四庫全書¶
 　宋書卷九十七¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　宋書卷九十七¶
+#+PROPERTY: JUAN 卷九十七考證
 <pb:KR2a0016_WYG_097-30a>¶
 　宋書卷九十七考證¶
 南夷林邑國傳交州刺史檀和之忠果到列○到列二¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　宋書卷九十七考證¶
-

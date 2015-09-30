@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宋書
-#+DATE: 2015-09-23 09:41:40
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:20:15.821652
+#+PROPERTY: ID KR2a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十七
 <pb:KR2a0016_WYG_037-1a>¶
 欽定四庫全書¶
 　宋書卷三十七¶
@@ -920,6 +922,7 @@
 　¶
 　¶
 　宋書卷三十七¶
+#+PROPERTY: JUAN 卷三十七考證
 <pb:KR2a0016_WYG_037-52a>¶
 　宋書卷三十七考證¶
 州郡志三灃陽令晉武帝太康四年立○灃南本作澧¶
@@ -938,4 +941,3 @@
 　¶
 　¶
 　宋書卷三十七考證¶
-
